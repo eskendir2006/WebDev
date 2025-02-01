@@ -1,0 +1,81 @@
+body {
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #606770;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.left-section {
+    max-width: 400px;
+    margin-right: 50px;
+}
+
+.left-section h1 {
+    color: #1877f2;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.left-section p {
+    font-size: 24px;
+    color: #1c1e21;
+}
+
+.login-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 360px;
+}
+
+.form-control {
+    height: 45px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #1877f2;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #165db2;
+}
+
+.btn-success {
+    background-color: #42b72a;
+    border: none;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.btn-success:hover {
+    background-color: #36a420;
+}
+
+.forgot-password a {
+    color: #1877f2;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.forgot-password a:hover {
+    text-decoration: underline;
+}
