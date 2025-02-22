@@ -3,11 +3,11 @@ import { Product } from './product';
 export class ProductList {
   private products: Product[] = [
     {
-      imageUrl: '../../assets/image6.png',
-      name: 'Xiaomi Redmi Note 10 Pro 8',
-      description: 'серый 256 ГБ',
-      rating: 4.5,
-      link: 'https://kaspi.kz/shop/p/xiaomi-redmi-note-10-pro-8-gb-256-gb-seryi-107221005/?c=750000000#!/item',
+      imageUrl: 'https://resources.cdn-kaspi.kz/img/m/p/h5c/hec/86261115060254.png?format=gallery-large',
+      name: 'Чехол Для Apple iPhone 13 прозрачный',
+      description: 'Чехол для Apple iPhone 13 прозрачный',
+      rating: 5,
+      link: 'https://kaspi.kz/shop/p/dlja-apple-iphone-13-prozrachnyi-106185651/?c=750000000',
     },
     {
       imageUrl: '../../assets/image9.png',
@@ -18,10 +18,10 @@ export class ProductList {
     },
     {
       imageUrl: '../../assets/image8.png',
-      name: 'Apple iPhone 11',
-      description: '128Gb Slim Box черный',
-      rating: 3.8,
-      link: 'https://kaspi.kz/shop/p/apple-iphone-11-128gb-slim-box-chernyi-100692388/?c=750000000#!/item',
+      name: 'Xiaomi Redmi 13C',
+      description: ' 8 ГБ/256 ГБ черный',
+      rating: 4.3,
+      link: 'https://kaspi.kz/shop/p/xiaomi-redmi-13c-8-gb-256-gb-chernyi-114695323/?c=750000000',
 
     },
     {
